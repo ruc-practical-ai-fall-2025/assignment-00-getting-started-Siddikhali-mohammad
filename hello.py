@@ -3,7 +3,7 @@
 #
 #
 # You should see the output "Hello, World!"
-#
+# Running this file locally
 
 # ***Uncomment the line below***
 print("Hello, World!")
